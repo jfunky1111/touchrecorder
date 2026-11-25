@@ -6,7 +6,7 @@
 
 
 ### Why
-Making a durable, easy-to-use voice recorder for my mom's classroom with a cool UI screen. No loose wires.
+Making a durable, easy-to-use voice recorder for my mom's classroom with a cool UI screen. No loose wires for small children to break.
 
 ### Parts
 * Ideaspark ESP32 with 1.14" ST7789 TFT
@@ -21,3 +21,5 @@ Making a durable, easy-to-use voice recorder for my mom's classroom with a cool 
 2. Plug modules into 2.54mm sockets
 3. Solder switches via wires
 4. Do code stuff in arduino IDE
+
+Schematic + PCB layout
